@@ -1,6 +1,7 @@
 import pandas as pd
+
 #Đọc file stocks1.csv vào DataFrame stocks1.
-stocks1=pd.read_csv('D:/17A3KHDL/LAB3/DATA/stocks1.csv')
+stocks1=pd.read_csv('D:\\Lập trình\\DHKL17A1HN\\LAB3\\DATA\\stocks1.csv')
 #Hiển thị 5 dòng đầu
 print('2.Hiển thị 5 dòng đầu tiên của stocks :')
 print(stocks1.head())
